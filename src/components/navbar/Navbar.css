@@ -1,0 +1,10 @@
+.navbar
+{
+    padding: 1%;
+    margin-bottom:1%;
+    display: flex;
+    justify-content: center;
+    border: 1px black solid;
+    background-color: #000000;
+}
+
